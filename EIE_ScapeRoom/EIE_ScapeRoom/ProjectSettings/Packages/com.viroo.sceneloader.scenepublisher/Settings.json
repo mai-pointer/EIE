@@ -1,0 +1,16 @@
+{
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "Viroo.SceneLoader.ScenePublisher.Unity.Editor.AssetBundleBuilderItemData[], Viroo.SceneLoader.ScenePublisher.Editor, Version=2.4.525.0, Culture=neutral, PublicKeyToken=null",
+                "key": "items",
+                "value": "{\"m_Value\":[{\"identifier\":\"VirooLobby\",\"title\":\"VIROO Lobby\",\"thumbnail\":{\"instanceID\":0},\"sceneAsset\":{\"fileID\":102900000,\"guid\":\"36b9393d600f5a84a95605123ae0e881\",\"type\":3},\"outputPath\":\"Publish/VirooLobby\",\"assemblyDefinitions\":[],\"includedFolders\":[]}]}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "packagesValidationRegex",
+                "value": "{\"m_Value\":\"^(ART\\\\.DTRACKPlugin|DOTween|HTC|LeapMotion|NMerso|Ultraleap|UniTask|Unity|Viroo\\\\.|Virtualware|Vivox).*|^Viroo$\"}"
+            }
+        ]
+    }
+}
